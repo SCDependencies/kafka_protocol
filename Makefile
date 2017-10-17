@@ -20,4 +20,4 @@ pre-deps::
 
 pre-app::
 
-include ../../erlang.mk
+include erlang.mk
